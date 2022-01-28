@@ -35,7 +35,7 @@ To run this project in the development mode, you'll need to have a basic environ
 #### Cloning the Repository
 
 ```
-git clone https://github.com/fariasmateuss/shoes-out.git
+git clone https://github.com/mahamudm90/shoes-point.git
 ```
 
 ### Installing
@@ -64,17 +64,3 @@ _or_
 yarn json-server server.json  -p 3333 -w
 ```
 
-## Commit Message Format
-
-In this project I used the emoji guide for commit messages.
-
-[Commit Message Format](https://gist.github.com/fariasmateuss/c8b3a2e1b8ae7c3cda520d0ac6e9e237) inspired by [Gitmoji](https://gitmoji.carloscuesta.me/).
-
-## Feedback
-
-Feel free to send me feedback on [LinkedIn](https://www.linkedin.com/in/fariasmateuss/) or [file an issue](https://github.com/fariasmateuss/shoes-out/issues/new).
-Feature requests are always welcome.
-
-# License
-
-[MIT License](/LICENSE)
