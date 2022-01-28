@@ -1,5 +1,7 @@
 <p align="center">
     <img src="docs/resources/thumbnail.png" />
+  <img src="docs/resources/a.png" />
+  
 </p>
 
 <p align="center">
