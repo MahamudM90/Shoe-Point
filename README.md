@@ -1,4 +1,4 @@
-<h1>A top-notch shoe store.<h1/>
+<h1 algin="center">SHOES-POINT.<h1/>
   <p align="center">
     <img src="docs/resources/thumbnail.png" />
   <img src="docs/resources/a.png" />
