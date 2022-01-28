@@ -1,19 +1,21 @@
-<h1 algin="center">SHOES-POINT.<h1/>
-  <p align="center">
-    <img src="docs/resources/thumbnail.png" />
-  <img src="docs/resources/a.png" />
-  
-</p>
+# Shoes-Point 👢
+A top-notch shoe store with excellent UI 🛍
+
+##### HomePage
+<img align="center" src="docs/resources/thumbnail.png" />
+
+###### CartPage
+<img align="center" src="docs/resources/a.png" />
 
 <p align="center">
   Application built with ReactJs, Redux, Redux Saga, Styled Components and Restful API with JSON Server.
 </p>
 
-## Demo
+## Demo 
 
-[Link to demo](https://shoes-point.netlify.app/)
+👉 [Link to demo](https://shoes-point.netlify.app/)
 
-## Tech
+## Tech 👨‍💻
 
 - [ReactJs](https://reactjs.org) - A JavaScript library for building user interfaces.
 - [React Icons](https://styled-components.com/) - Utilizes ES6 imports that allows you to include only the icons that your project is using.
