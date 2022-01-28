@@ -1,0 +1,72 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Zoom Fly 3 Premium",
+      "price": 160,
+      "color": "#54d4c9",
+      "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1315882/zoom-fly-3-premium-mens-running-shoe-XhzpPH-removebg-preview.png"
+    },
+    {
+      "id": 2,
+      "title": "Epic React Flyknit 2",
+      "price": 89.97,
+      "color": "#fd584a",
+      "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1315882/epic-react-flyknit-2-mens-running-shoe-2S0Cn1-removebg-preview.png"
+    },
+    {
+      "id": 3,
+      "title": "Odyssey React Flyknit 2",
+      "price": 71.97,
+      "color": "#d4d7d6",
+      "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1315882/odyssey-react-flyknit-2-mens-running-shoe-T3VG7N-removebg-preview.png"
+    },
+    {
+      "id": 4,
+      "title": "Air Zoom Pegasus 36 Shield",
+      "price": 89.97,
+      "color": "#4d317f",
+      "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1315882/air-zoom-pegasus-36-shield-mens-running-shoe-24FBGb__1_-removebg-preview.png"
+    },
+    {
+      "id": 5,
+      "title": "Vaporfly 4% Flyknit",
+      "price": 187.97,
+      "color": "#10235c",
+      "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1315882/vaporfly-4-flyknit-running-shoe-v7G3FB-removebg-preview.png"
+    },
+    {
+      "id": 6,
+      "title": "CruzrOne",
+      "price": 100.97,
+      "color": "#e8d026",
+      "image": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1315882/cruzrone-unisex-shoe-T2rRwS-removebg-preview.png"
+    }
+  ]
+}
