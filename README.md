@@ -10,7 +10,7 @@
 
 ## Demo
 
-[Link to demo](https://shoes-out.netlify.app/)
+[Link to demo](https://shoes-point.netlify.app/)
 
 ## Tech
 
